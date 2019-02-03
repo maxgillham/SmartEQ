@@ -18,3 +18,5 @@ npm install
 npm start
 ```
 You will need to get Azure keys to run this hack for the Face and Text Analytics APIS.
+
+Checkout the [Devpost](https://devpost.com/software/smarteq)
