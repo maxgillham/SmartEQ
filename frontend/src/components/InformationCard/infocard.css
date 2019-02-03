@@ -1,0 +1,35 @@
+
+p {
+
+    font-size: 20px;
+    color: white;
+    opacity: 1 !important;
+    margin-bottom: 2em;
+}
+
+img {
+    opacity: 1;
+}
+
+h1 {
+    color: white;
+    opacity: 1;
+}
+
+h2 {
+    color: white;
+    opacity: 1;
+}
+
+.container {
+    width: 300px;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: 10;
+    position: absolute;
+    right: 5vw;
+    top: 10vh;
+}
+
+.inner-class {
+    padding: 20px;
+}
