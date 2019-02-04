@@ -1,4 +1,12 @@
-# Qhacks2019
+# SmartEQ - Qhacks2019 
+## Winner of
+* Best Healthy Living Hack sponsored by Sunlife Financial
+* Best Green Hack sponsored by TD 
+A video of SmartEQ in action
+
+[![SmartEQ](https://img.youtube.com/vi/ouXz4nOBfD4/0.jpg)](https://www.youtube.com/watch?v=ouXz4nOBfD4 "SmartEQ - Qhack2019")
+
+Checkout the [Devpost](https://devpost.com/software/smarteq)
 
 ## Try it out! :D 
 
@@ -19,4 +27,3 @@ npm start
 ```
 You will need to get Azure keys to run this hack for the Face and Text Analytics APIS.
 
-Checkout the [Devpost](https://devpost.com/software/smarteq)
