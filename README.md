@@ -1,12 +1,12 @@
 # SmartEQ - Qhacks2019 
+A smart glasses hack to help children with autism spectrum disorder better understand their surroundings with real time emotion detection and sentiment analysis of conversations.  
 ## Winner of
 * Best Healthy Living Hack sponsored by Sunlife Financial
-* Best Green Hack sponsored by TD 
-A video of SmartEQ in action
+* Best Green Hack sponsored by TD  
 
+Here is the [Devpost](https://devpost.com/software/smarteq).  
+Checkout this video of SmartEQ in action:  
 [![SmartEQ](https://img.youtube.com/vi/ouXz4nOBfD4/0.jpg)](https://www.youtube.com/watch?v=ouXz4nOBfD4 "SmartEQ - Qhack2019")
-
-Checkout the [Devpost](https://devpost.com/software/smarteq)
 
 ## Try it out! :D 
 
